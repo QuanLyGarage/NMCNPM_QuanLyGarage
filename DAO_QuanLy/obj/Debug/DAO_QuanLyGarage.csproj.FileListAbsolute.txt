@@ -1,0 +1,5 @@
+C:\Users\TUAN\source\repos\frmDangNhap\DAO_QuanLy\bin\Debug\DAO_QuanLy.dll
+C:\Users\TUAN\source\repos\frmDangNhap\DAO_QuanLy\bin\Debug\DAO_QuanLy.pdb
+C:\Users\TUAN\source\repos\frmDangNhap\DAO_QuanLy\obj\Debug\DAO_QuanLy.dll
+C:\Users\TUAN\source\repos\frmDangNhap\DAO_QuanLy\obj\Debug\DAO_QuanLy.pdb
+C:\Users\TUAN\source\repos\frmDangNhap\DAO_QuanLy\obj\Debug\DAO_QuanLyGarage.csprojAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\TUAN\source\repos\frmDangNhap\DTO_QuanLyGarage\bin\Debug\DTO_QuanLyGarage.dll
+C:\Users\TUAN\source\repos\frmDangNhap\DTO_QuanLyGarage\bin\Debug\DTO_QuanLyGarage.pdb
+C:\Users\TUAN\source\repos\frmDangNhap\DTO_QuanLyGarage\obj\Debug\DTO_QuanLyGarage.csprojAssemblyReference.cache
+C:\Users\TUAN\source\repos\frmDangNhap\DTO_QuanLyGarage\obj\Debug\DTO_QuanLyGarage.dll
+C:\Users\TUAN\source\repos\frmDangNhap\DTO_QuanLyGarage\obj\Debug\DTO_QuanLyGarage.pdb
